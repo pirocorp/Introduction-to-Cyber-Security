@@ -27,6 +27,7 @@
 
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Brute-Force a Password
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is an open-source tool primarily used for NetBIOS and LLMNR poisoning attacks. NetBIOS (Network Basic Input/Output System) and LLMNR (Link-Local Multicast Name Resolution) facilitate communication between devices on a local network.
+- [John the Ripper](https://github.com/openwall/john) - John the Ripper is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS (the latter requires a contributed patch). Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix flavors, supported out of the box are Kerberos/AFS and Windows LM hashes, as well as DES-based tripcodes, plus hundreds of additional hashes and ciphers in "-jumbo" versions.
 
 ---------------------------------------------------------------
 
