@@ -22,7 +22,6 @@
 - [CVE Org](https://www.cve.org/) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
 - [ExploitDB](https://www.exploit-db.com/) - Search for Vulnerabilities
 - [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics.
-
 - [CVE Details](https://www.cvedetails.com/) - a complete CVE database enhanced with additional information, including advisories, exploits, tools, source code changes, etc.
 - Searchsploit - kali-linux command util
 
@@ -34,7 +33,8 @@
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is an open-source tool primarily used for NetBIOS and LLMNR poisoning attacks. NetBIOS (Network Basic Input/Output System) and LLMNR (Link-Local Multicast Name Resolution) facilitate communication between devices on a local network.
 - [John the Ripper](https://github.com/openwall/john) - John the Ripper is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS (the latter requires a contributed patch). Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix flavors, supported out of the box are Kerberos/AFS and Windows LM hashes, as well as DES-based tripcodes, plus hundreds of additional hashes and ciphers in "-jumbo" versions.
 - [Zero Days Marketplace](https://0day.today/) - Zero Day Vulnerabilities. Zero Day means that they are brand new, and there
-is not a fix or patch for them
+is not a fix or patch for them.
+- [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
 
 ---------------------------------------------------------------
 
