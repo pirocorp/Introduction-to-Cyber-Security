@@ -28,15 +28,22 @@
 ---------------------------------------------------------------
 
 ## Hacking Tools 
-
-- [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Brute-Force a Password
 - [Responder](https://github.com/SpiderLabs/Responder) - Responder is an open-source tool primarily used for NetBIOS and LLMNR poisoning attacks. NetBIOS (Network Basic Input/Output System) and LLMNR (Link-Local Multicast Name Resolution) facilitate communication between devices on a local network.
 - [John the Ripper](https://github.com/openwall/john) - John the Ripper is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS (the latter requires a contributed patch). Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix flavors, supported out of the box are Kerberos/AFS and Windows LM hashes, as well as DES-based tripcodes, plus hundreds of additional hashes and ciphers in "-jumbo" versions.
 - [Zero Days Marketplace](https://0day.today/) - Zero Day Vulnerabilities. Zero Day means that they are brand new, and there
 is not a fix or patch for them.
-- [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has a number of custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
+- [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has several custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
 
 ---------------------------------------------------------------
+
+## Brute Forcing Attacks
+
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Hydra (or THC Hydra) is a parallelized network login cracker built in various operating systems like Kali Linux
+- [Burp Intruder](https://portswigger.net/burp/pro) - Burp Intruder is a tool for automating customized attacks against web applications.
+- [Medusa](https://github.com/jmk-foofus/medusa) - Medusa is a speedy, parallel, and modular login brute-forcer. The goal is to support as many services that allow remote authentication as possible.
+
+---------------------------------------------------------------
+
 
 ## Frameworks to Perform Wi-Fi Attacks
 
