@@ -20,8 +20,9 @@
 
 - [CVE Org](https://www.cve.org/) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
 - [ExploitDB](https://www.exploit-db.com/) - Search for Vulnerabilities
-- [National Vulnerability Database](https://nvd.nist.gov/)
-- [CVE Details](https://www.cvedetails.com/)
+- [National Vulnerability Database](https://nvd.nist.gov/) - U.S. government repository of standards-based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics.
+
+- [CVE Details](https://www.cvedetails.com/) - a complete CVE database enhanced with additional information, including advisories, exploits, tools, source code changes, etc.
 - Searchsploit - kali-linux command util
 
 ---------------------------------------------------------------
