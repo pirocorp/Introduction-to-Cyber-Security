@@ -78,6 +78,15 @@ a secure way
 
 ---------------------------------------------------------------
 
+## Penetration Testing Operational Systems
+
+- [Kali Linux](https://www.kali.org/)
+- [Parrot OS](https://www.parrotsec.org/)
+- [Black Arch](https://blackarch.org/)
+- [CommandoVM](https://github.com/mandiant/commando-vm)
+
+---------------------------------------------------------------
+
 ## Example of interesting ports:
 
 - 22 / SSH
