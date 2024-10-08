@@ -108,6 +108,9 @@ a secure way
 ## Kill Chains
 
 - [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [APT-29 TTPs Attack Kill Chain](https://mitre-attack.github.io/attack-navigator/#layerURL=https%3A%2F%2Fattack.mitre.org%2Fgroups%2FG0016%2FG0016-enterprise-layer.json)
+
+---------------------------------------------------------------
 
 ## Example of interesting ports:
 
