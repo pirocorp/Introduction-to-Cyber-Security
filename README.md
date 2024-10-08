@@ -80,10 +80,10 @@ a secure way
 
 ## Penetration Testing Tools
 
-- [Nessus](https://www.tenable.com/products/nessus)
-- [Nmap](https://nmap.org/)
-- [BurpSuite](https://portswigger.net/burp)
-- [Searchsploit](https://www.exploit-db.com/searchsploit)
+- [Nessus](https://www.tenable.com/products/nessus) - Nessus is vulnerability scanning solution
+- [Nmap](https://nmap.org/) - Nmap ("Network Mapper") is a free and open-source utility for network discovery and security auditing. 
+- [BurpSuite](https://portswigger.net/burp) - The class-leading vulnerability scanning, penetration testing, and web app security platform.
+- [Searchsploit](https://www.exploit-db.com/searchsploit) - Searchsploit is a command line search tool for Exploit-DB that allows you to take a copy of Exploit Database anywhere you go.
 
 ---------------------------------------------------------------
 
