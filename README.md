@@ -78,6 +78,15 @@ a secure way
 
 ---------------------------------------------------------------
 
+## Penetration Testing Tools
+
+- [Nessus](https://www.tenable.com/products/nessus)
+- [Nmap](https://nmap.org/)
+- [BurpSuite](https://portswigger.net/burp)
+- [Searchsploit](https://www.exploit-db.com/searchsploit)
+
+---------------------------------------------------------------
+
 ## Penetration Testing Operational Systems
 
 - [Kali Linux](https://www.kali.org/)
