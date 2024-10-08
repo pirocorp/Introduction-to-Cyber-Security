@@ -6,20 +6,20 @@
 
 ## Frameworks for Recording Threat Actions
 
-[ATT&CK Matrix for Enterprise](https://attack.mitre.org/)
+- [ATT&CK Matrix for Enterprise](https://attack.mitre.org/)
 
 ---------------------------------------------------------------
 
 ## IDS / IPS (Intrusion Detection System / Intrusion Prevention System)
 
-[Snort](https://www.snort.org/)
+- [Snort](https://www.snort.org/)
 
 ---------------------------------------------------------------
 
 
 ## Tools
 
-[OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect to each other in
+- [OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect to each other in
 a secure way
 
 ---------------------------------------------------------------
