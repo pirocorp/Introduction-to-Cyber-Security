@@ -6,7 +6,7 @@
 
 ## Frameworks for Recording Threat Actions
 
-- [ATT&CK Matrix for Enterprise](https://attack.mitre.org/)
+- [ATT&CK Matrix for Enterprise](https://attack.mitre.org/) - MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for developing specific threat models and methodologies in the private sector, government, and cybersecurity product and service community.
 
 ---------------------------------------------------------------
 
