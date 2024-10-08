@@ -58,8 +58,8 @@ is not a fix or patch for them.
 
 - [Low Orbit Ion Cannon](https://github.com/NewEraCracker/LOIC) - Low Orbit Ion Cannon (LOIC) is an open-source network stress tool written in C# (TCP, UDP, HTTP GET FLOODS).
 - [High Orbit Ion Cannon](https://sourceforge.net/projects/highorbitioncannon/) - HTTP GET / POST requests
-- [hping3](https://www.kali.org/tools/hping3/) - hping3 is a network tool that sends custom ICMP/UDP/TCP packets and displays target replies like ping does with ICMP replies. It handles fragmentation and arbitrary packet body and size and can transfer files under supported protocols. Using hping3, you can test firewall rules, perform (spoofed) port scanning, test network performance using different protocols, do path MTU discovery, perform traceroute-like actions under different protocols, fingerprint remote operating systems, audit TCP/IP stacks, etc. hping3 is scriptable using the Tcl language.
-- [Tors Hammer](https://github.com/Karlheinzniebuhr/torshammer) - As the name suggests, the tool can perform attacks inside the Tor network. By default, Tor's Hammer operates on level 7 of the OSI Model and attacks the whole TCP stack. The way it works is simple. The tool opens multiple dead connections and, thus, hangs the application since it cannot return results. However, instead of a crushing action like the literal Thor hammer, it is specialized for anonymous attacks. The tool is built in a way that uses anonymity as leverage to evade firewalls and security mitigations. Pen testers also use it for demo attacks on security structures. This tool has a downside. However, the primary network (Tor) is usually very slow. This speed limit automatically limits how effective these tools can be.
+- [hping3](https://www.kali.org/tools/hping3/) - hping3 is a network tool that sends custom ICMP/UDP/TCP packets and displays target replies like ping does with ICMP replies. It handles fragmentation and arbitrary packet body and size and can transfer files under supported protocols. Using hping3, you can test firewall rules, perform (spoofed) port scanning, test network performance using different protocols, make path MTU discovery, perform traceroute-like actions under various protocols, fingerprint remote operating systems, audit TCP/IP stacks, etc. hping3 is scriptable using the Tcl language.
+- [Tors Hammer](https://github.com/Karlheinzniebuhr/torshammer) - As the name suggests, the tool can perform attacks inside the Tor network. By default, Tor's Hammer operates on level 7 of the OSI Model and attacks the whole TCP stack. The way it works is simple. The tool opens multiple dead connections and, thus, hangs the application since it cannot return results. However, instead of a crushing action like the literal Thor hammer, it is specialized for anonymous attacks. The tool is built in a way that uses anonymity as leverage to evade firewalls and security mitigations. Pen testers also use it for demo attacks on security structures. This tool has a downside. However, the primary network (Tor) is usually prolonged. This speed limit automatically limits how effective these tools can be.
 
 ---------------------------------------------------------------
 
@@ -97,13 +97,17 @@ a secure way
 
 ---------------------------------------------------------------
 
-## Practice Pentesting Legally
+## Practice Penetration Testing Legally
 
 - [TryHackMe](https://tryhackme.com/)
 - [Vulnhub](https://www.vulnhub.com/)
 - [HackTheBox](https://www.hackthebox.com/)
 
 ---------------------------------------------------------------
+
+## Kill Chains
+
+- [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
 
 ## Example of interesting ports:
 
