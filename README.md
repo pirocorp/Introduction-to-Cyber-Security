@@ -112,6 +112,17 @@ a secure way
 
 ---------------------------------------------------------------
 
+## Setup a Kali Linux
+
+### Software Requirements
+
+- [VmwareWorkstation Player](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+- [Oracle VM VirtualBox](https://www.virtualbox.org/)
+- [Kali-Linux VM](https://www.kali.org/get-kali/#kali-virtual-machines)
+- [Ubuntu Server](https://ubuntu.com/download/server)
+
+---------------------------------------------------------------
+
 ## Example of interesting ports:
 
 - 22 / SSH
