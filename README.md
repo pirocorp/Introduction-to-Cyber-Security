@@ -23,7 +23,7 @@
 
 ---------------------------------------------------------------
 
-## Tools
+## Security Tools
 
 - [OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect to each other in
 a secure way
