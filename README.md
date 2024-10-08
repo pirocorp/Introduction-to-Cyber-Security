@@ -13,7 +13,7 @@
 ## IDS / IPS (Intrusion Detection System / Intrusion Prevention System)
 
 - [Snort](https://www.snort.org/) - Snort is an Open Source Intrusion Prevention System (IPS). Snort IPS uses a series of rules that help define malicious network activity, which is used to find packets that match against them and generate alerts for users. Snort can be deployed to stop these packets, as well. Snort has three primary uses: As a packet sniffer like tcpdump and as a packet logger, which is helpful for network traffic debugging and can be used as a full-blown network intrusion prevention system.
-- [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - a real-time map of the computer security attacks that are going on at any given time.
+- [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - a real-time map of the computer security attacks occurring at any given time.
 
 ---------------------------------------------------------------
 
