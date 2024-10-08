@@ -97,6 +97,14 @@ a secure way
 
 ---------------------------------------------------------------
 
+## Practice Pentesting Legally
+
+- [TryHackMe](https://tryhackme.com/)
+- [Vulnhub](https://www.vulnhub.com/)
+- [HackTheBox](https://www.hackthebox.com/)
+
+---------------------------------------------------------------
+
 ## Example of interesting ports:
 
 - 22 / SSH
