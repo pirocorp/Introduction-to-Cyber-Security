@@ -33,6 +33,7 @@
 - [Zero Days Marketplace](https://0day.today/) - Zero Day Vulnerabilities. Zero Day means that they are brand new, and there
 is not a fix or patch for them.
 - [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. SET has several custom attack vectors that allow you to make a believable attack quickly. SET is a product of TrustedSec, LLC – an information security consulting firm located in Cleveland, Ohio.
+- [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - LinPEAS is a script that searches for possible paths to escalate privileges on Linux/Unix*/MacOS hosts.
 
 ---------------------------------------------------------------
 
