@@ -20,6 +20,8 @@
 
 - [CVE Org](https://www.cve.org/) - Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities
 - [ExploitDB](https://www.exploit-db.com/) - Search for Vulnerabilities
+- [National Vulnerability Database](https://nvd.nist.gov/)
+- [CVE Details](https://www.cvedetails.com/)
 - Searchsploit - kali-linux command util
 
 ---------------------------------------------------------------
