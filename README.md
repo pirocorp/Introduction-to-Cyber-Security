@@ -40,9 +40,9 @@ is not a fix or patch for them
 
 ## Frameworks to Perform Wi-Fi Attacks
 
--[Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
--[WiFiPhisher](https://github.com/wifiphisher/wifiphisher) - Wifiphisher is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can quickly achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
--[WiFi Exploitation Framework](https://github.com/D3Ext/WEF) - This is an entirely offensive framework to audit wifi networks with different types of attacks for WPA/WPA2, WPS, and WEP, automated handshake cracking, and much more.
+- [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
+- [WiFiPhisher](https://github.com/wifiphisher/wifiphisher) - Wifiphisher is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can quickly achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
+- [WiFi Exploitation Framework](https://github.com/D3Ext/WEF) - This is an entirely offensive framework to audit wifi networks with different types of attacks for WPA/WPA2, WPS, and WEP, automated handshake cracking, and much more.
 
 ---------------------------------------------------------------
 
