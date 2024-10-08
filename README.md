@@ -21,6 +21,7 @@
 
 - [OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect to each other in
 a secure way
+- [Tor Network](https://www.torproject.org/) This network is used for anonymity online
 
 ---------------------------------------------------------------
 
