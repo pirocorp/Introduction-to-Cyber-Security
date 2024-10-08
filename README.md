@@ -26,6 +26,7 @@
 ## Hacking Tools 
 
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Brute-Force a Password
+- [Responder](https://github.com/SpiderLabs/Responder) - Responder is an open-source tool primarily used for NetBIOS and LLMNR poisoning attacks. NetBIOS (Network Basic Input/Output System) and LLMNR (Link-Local Multicast Name Resolution) facilitate communication between devices on a local network.
 
 ---------------------------------------------------------------
 
@@ -35,7 +36,7 @@
 a secure way
 - [Tor Network](https://www.torproject.org/) This network is used for anonymity online
 - [JWT Token](https://jwt.io/) JSON Web Token - Used for authorization in web apps. It relies on secret for validating it's signature. JWT token is instantiated upon a valid login
-- []()
+- [Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) - Applied algorithm to "obfuscate" a secret
 
 ---------------------------------------------------------------
 
