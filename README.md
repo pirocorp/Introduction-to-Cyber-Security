@@ -13,6 +13,7 @@
 ## IDS / IPS (Intrusion Detection System / Intrusion Prevention System)
 
 - [Snort](https://www.snort.org/)
+- [Live Cyber Threat Map](https://threatmap.checkpoint.com/)
 
 ---------------------------------------------------------------
 
@@ -34,6 +35,14 @@
 - [John the Ripper](https://github.com/openwall/john) - John the Ripper is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS (the latter requires a contributed patch). Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix flavors, supported out of the box are Kerberos/AFS and Windows LM hashes, as well as DES-based tripcodes, plus hundreds of additional hashes and ciphers in "-jumbo" versions.
 - [Zero Days Marketplace](https://0day.today/) - Zero Day Vulnerabilities. Zero Day means that they are brand new, and there
 is not a fix or patch for them
+
+---------------------------------------------------------------
+
+## Frameworks to Perform Wi-Fi Attacks
+
+-[Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
+-[WiFiPhisher](https://github.com/wifiphisher/wifiphisher) - Wifiphisher is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can quickly achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
+-[WiFi Exploitation Framework](https://github.com/D3Ext/WEF) - This is an entirely offensive framework to audit wifi networks with different types of attacks for WPA/WPA2, WPS, and WEP, automated handshake cracking, and much more.
 
 ---------------------------------------------------------------
 
