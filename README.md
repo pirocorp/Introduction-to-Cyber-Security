@@ -38,5 +38,8 @@
   - Windows:
     - `netstat –an`
     - `netstat –antb`
+  - Linux:
+    - `ss –nltp`
+    - `netstat –tulpn`
 
 
