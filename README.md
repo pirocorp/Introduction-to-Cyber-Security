@@ -42,13 +42,22 @@ is not a fix or patch for them.
 
 - [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.
 - [WiFiPhisher](https://github.com/wifiphisher/wifiphisher) - Wifiphisher is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can quickly achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks.
-- [WiFi Exploitation Framework](https://github.com/D3Ext/WEF) - This is an entirely offensive framework to audit wifi networks with different types of attacks for WPA/WPA2, WPS, and WEP, automated handshake cracking, and much more.
+- [WiFi Exploitation Framework](https://github.com/D3Ext/WEF) - This is an entirely offensive framework for auditing Wi-Fi networks with different types of attacks for WPA/WPA2, WPS, and WEP, automated handshake cracking, and much more.
+
+---------------------------------------------------------------
+
+## DoS Tools - Denial of Service (DOS)
+
+- [Low Orbit Ion Cannon](https://github.com/NewEraCracker/LOIC) - Low Orbit Ion Cannon (LOIC) is an open-source network stress tool written in C# (TCP, UDP, HTTP GET FLOODS).
+- [High Orbit Ion Cannon](https://sourceforge.net/projects/highorbitioncannon/) - HTTP GET / POST requests
+- [hping3](https://www.kali.org/tools/hping3/) - hping3 is a network tool that sends custom ICMP/UDP/TCP packets and displays target replies like ping does with ICMP replies. It handles fragmentation and arbitrary packet body and size and can transfer files under supported protocols. Using hping3, you can test firewall rules, perform (spoofed) port scanning, test network performance using different protocols, do path MTU discovery, perform traceroute-like actions under different protocols, fingerprint remote operating systems, audit TCP/IP stacks, etc. hping3 is scriptable using the Tcl language.
+- [Tors Hammer](https://github.com/Karlheinzniebuhr/torshammer) - As the name suggests, the tool can perform attacks inside the Tor network. By default, Tor's Hammer operates on level 7 of the OSI Model and attacks the whole TCP stack. The way it works is simple. The tool opens multiple dead connections and, thus, hangs the application since it cannot return results. However, instead of a crushing action like the literal Thor hammer, it is specialized for anonymous attacks. The tool is built in a way that uses anonymity as leverage to evade firewalls and security mitigations. Pen testers also use it for demo attacks on security structures. This tool has a downside. However, the primary network (Tor) is usually very slow. This speed limit automatically limits how effective these tools can be.
 
 ---------------------------------------------------------------
 
 ## Security Tools
 
-- [OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect to each other in
+- [OpenVPN](https://openvpn.net/) Virtual Private Network - Infrastructure that allows machines to connect in
 a secure way
 - [Tor Network](https://www.torproject.org/) This network is used for anonymity online
 - [JWT Token](https://jwt.io/) JSON Web Token - Used for authorization in web apps. It relies on a secret to validate its signature. JWT token is instantiated upon a valid login
